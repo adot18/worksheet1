@@ -32,3 +32,46 @@
    32  git add aong.txt
    33  git commit -m "First commit"
    34  history > cmds.log
+   35  ls
+   36  git add cmds.log
+   37  git remote add origin https://github.com/adot18/worksheet1.git
+   38  git push -u origin master
+   39  git push origin master --force
+   40  failed to push some refs to 'https://github.com/adot18/worksheet1.git'
+   41  git remote add origin https://github.com/adot18/worksheet1.git
+   42  git branch -M main
+   43  git push -u origin main
+   44  git remote add origin https://github.com/adot18/worksheet1.git
+   45  git branch -M main
+   46  git push -u origin main
+   47  git init
+   48  git push origin new-branch
+   49  cs /
+   50  cd /
+   51  git init
+   52  cd worksheet1
+   53  mkdir ws1
+   54  cd ~
+   55  cd worksheet1/
+   56  cd ~
+   57  git init
+   58  touch aong.txt
+   59  git init
+   60  history > cmds.log
+   61  git add cmds.log
+   62  git commit -m "Worksheet 1 HW"
+   63  git config --global user.name "aong"
+   64  git config --global user.email "ongalex888@gmail.com"
+   65  git commit -m "Worksheet 1 HW"
+   66  git remote add origin https://github.com/adot18/worksheet1.git
+   67  git push -u origin master
+   68  cd worksheet1
+   69  ls
+   70  git init
+   71  git add cmds.log
+   72  git commit -m "First commit"
+   73  git remote add origin https://github.com/adot18/worksheet1.git
+   74  git push -u origin master 
+   75  git pull origin master
+   76  git log
+   77  history > cmds.log
