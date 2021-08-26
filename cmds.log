@@ -1,0 +1,34 @@
+    1  wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+    2  exit
+    3  cd Desktop
+    4  mkdir CS185C
+    5  git init
+    6  touch alexong.txt
+    7  ls
+    8  git status
+    9  git add alexong.txt
+   10  git status
+   11  got commit -m "First commit"
+   12  git commit -m "First commit"
+   13  git config --global user.email ongalex888@gmail.com
+   14  git remote add origin https://github.com/adot18/worksheet1.git
+   15  git push -u origin master
+   16  mkdir worksheet1
+   17  ls
+   18  cd worksheet1
+   19  git init
+   20  touch aong.txt
+   21  ls
+   22  git status
+   23  git add aong.txt
+   24  git status
+   25  git commit -m "First commit"
+   26  Omit --global
+   27  cd desktop
+   28  mkdir worksheet1
+   29  cd worksheet1
+   30  git init
+   31  ls
+   32  git add aong.txt
+   33  git commit -m "First commit"
+   34  history > cmds.log
